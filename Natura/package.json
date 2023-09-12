@@ -1,0 +1,19 @@
+{
+  "name": "natura",
+  "version": "1.0.0",
+  "description": "Avaliacao Natura",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "FERNANDO RODRIGUES",
+  "license": "ISC",
+  "devDependencies": {
+    "@faker-js/faker": "^8.0.2",
+    "cypress": "^13.1.0",
+    "faker": "^6.6.6"
+  },
+  "dependencies": {
+    "gerador-validador-cpf": "^5.0.2"
+  }
+}
